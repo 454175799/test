@@ -1,0 +1,17 @@
+#jump_user
+username    hong
+password    1234
+
+#jump_group
+group_name
+
+#remote_user
+user        root
+password    123456
+public_key
+
+#remote_host
+ip          172.16.0.1
+port        22
+
+#remote_logs
